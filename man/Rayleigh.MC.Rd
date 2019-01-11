@@ -23,7 +23,7 @@ Generate samples from Rayleigh distribution
 }
 \examples{
 \dontrun{
-rnR <- sample.chain(100,1)
-plot(rnR,type='l')
+X <- sample.chain(100,1)
+print(Gelman.Rubin(X))
 }
 }

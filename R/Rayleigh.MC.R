@@ -7,8 +7,8 @@
 #' @return a random sample of size \code{length(x)}
 #' @examples
 #' \dontrun{
-#' rnR <- sample.chain(100,1)
-#' plot(rnR,type='l')
+#' X <- sample.chain(100,1)
+#' print(Gelman.Rubin(X))
 #' }
 #' @export
 Rayleigh.MC <- function(x, sigma, m = 10000, antithetic = TRUE) {
