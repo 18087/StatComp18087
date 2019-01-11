@@ -2,8 +2,8 @@ Package: StatComp18087
 Title: Example functions for 'Statistical Computing' course
 Version: 1.0
 Authors@R: person("18087", "Developer", role = c("aut", "cre"),
-                     email = "lidaming@mail.ustc.edu.cn")
-Maintainer: 18087 Developer <lidaming@mail.ustc.edu.cn>
+                     email = "731754338@qq.com")
+Maintainer: 18087 Developer <731754338@qq.com>
 Description: Several R function are included in this package for illustration. 
 Depends: R (>= 3.4.4)
 License: GPL (>= 2)
