@@ -3,3 +3,4 @@
 export(Rayleigh.MC)
 export(cvm.test)
 export(rcauchy.MH)
+export(sample.chain)
